@@ -1,0 +1,30 @@
+
+
+body{
+    background-image: url("image/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.start{
+    margin-top: 695px;
+    color: white;
+}
+
+.start button{
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: black; 
+    color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-width: 0.5px;
+}
+
+.start button:hover{
+    color: #444;
+}
